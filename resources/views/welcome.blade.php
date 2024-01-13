@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravell</title>
-        <title>Laravell</title>
 
 
         <!-- Fonts -->
